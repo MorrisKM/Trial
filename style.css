@@ -1,0 +1,4 @@
+*{
+    transition: all .50s ease;
+    scroll-behavior: smooth;
+}
